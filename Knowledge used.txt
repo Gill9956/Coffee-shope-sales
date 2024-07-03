@@ -1,0 +1,10 @@
+Knowledge used
+
+Measures
+Charts
+Formatting
+Slicers
+Data Modelling
+Data cleaning
+Pivot Tables
+
